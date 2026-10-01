@@ -1,4 +1,4 @@
-# 📄 README: AI Literacy Intervention for ENEM Preparation
+# AI Literacy Intervention for ENEM Preparation
 
 This repository contains the R script used to statistically analyze the results of a quasi-experimental intervention focused on the responsible use of Generative AI (GenAI) in high-stakes educational contexts.
 
